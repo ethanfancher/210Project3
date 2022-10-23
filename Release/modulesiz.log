@@ -1,0 +1,13 @@
+﻿modulesiz.obj : error LNK2001: unresolved external symbol __imp__Py_BuildValue
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__Py_Finalize
+modulesiz.obj : error LNK2001: unresolved external symbol __imp___Py_Dealloc
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__Py_Initialize
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyModule_GetDict
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyDict_GetItemString
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyObject_CallObject
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyImport_Import
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyCallable_Check
+modulesiz.obj : error LNK2001: unresolved external symbol __imp___PyLong_AsInt
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyErr_Print
+modulesiz.obj : error LNK2001: unresolved external symbol __imp__PyUnicode_FromString
+C:\Users\Ethan Fancher\source\repos\modulesiz\Release\modulesix.exe : fatal error LNK1120: 12 unresolved externals
